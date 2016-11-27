@@ -12,7 +12,7 @@ Creational:
 Structural:
 -----------------------------------
    * Adapter
-   * Bridge 
+   * [Bridge] (https://github.com/ViktorGlazkov/Patterns/tree/master/src/bridge) 
    * [Composite] (https://github.com/ViktorGlazkov/Patterns/tree/master/src/composer) 
    * [Decorator] (https://github.com/ViktorGlazkov/Patterns/tree/master/src/decorator)
    * Facade
